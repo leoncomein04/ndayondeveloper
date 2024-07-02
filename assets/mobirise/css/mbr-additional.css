@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-header__text DIV {
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+}
+#content4-f P {
+  color: #f0f0f0;
+}
+#content4-f .mbr-section__col .mbr-header__text {
+  color: #f0f0f0;
+}
+#content4-e P {
+  text-align: left;
+  color: #f0f0f0;
+}
+#content4-e .mbr-section__col .mbr-header__text {
+  text-align: left;
+}
